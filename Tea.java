@@ -1,5 +1,4 @@
-package food_method;
-
+package food;
 
 public class Tea extends Food {
 
