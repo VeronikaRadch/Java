@@ -1,5 +1,4 @@
-package lab2;
+package labbb2;
 
 public class JFrame {
-
 }
